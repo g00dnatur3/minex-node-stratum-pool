@@ -5,8 +5,8 @@ Verified working with EWBF and GMiner
 
 ## Backstory
 
-I noticed a BIG TIME miner not winning any blocks on with a very low network hash
-This went on for HOURS
+I noticed a BIG TIME miner not winning any blocks with a very low network hash
+This went on for HOURS..
 
 I'm like, HOW?? Is this guy submitting bogues shares that are false positives?
 
