@@ -1,3 +1,31 @@
+
+# FULLY UPDATED NODE-STRATUM-POOL FOR MINEXCOIN
+
+Verified working with EWBF and GMiner
+
+## Backstory
+
+I noticed a BIG TIME miner not winning any blocks on with a very low network hash
+This went on for HOURS
+
+I'm like, HOW?? Is this guy submitting bogues shares that are false positives?
+
+Sure enuff I found this article:
+
+https://blog.zencash.com/update-for-the-equihash-mining-application-z-nomp/
+
+This i went into ACTION and fixed it.
+
+DROP ME A STAR PLEASE IF U FIND THIS REPO HELPFUL
+
+
+THANKS :)
+
+
+Keep on Rockin' in the FREE WORLD 
+
+--------
+
 High performance Stratum poolserver for equihash in Node.js. One instance of this software can startup and manage multiple coin
 pools, each with their own daemon and stratum port :)
 
