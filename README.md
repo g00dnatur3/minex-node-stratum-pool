@@ -14,7 +14,7 @@ Sure enuff I found this article:
 
 https://blog.zencash.com/update-for-the-equihash-mining-application-z-nomp/
 
-This i went into ACTION and fixed it.
+Thus i went into ACTION and fixed it.
 
 DROP ME A STAR PLEASE IF U FIND THIS REPO HELPFUL
 
